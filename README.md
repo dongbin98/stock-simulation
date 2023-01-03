@@ -1,5 +1,5 @@
 # Naver_Stock_Project
-네이버에서 제공하는 주식 정보를 파싱하여 Swing GUI를 통해 보여주는 프로그램
+네이버에서 제공하는 주식 정보를 파싱하여 Swing GUI를 통해 보여주는 프로그램입니다.
 
 ## 1. Development Environment
 - Windows 10
